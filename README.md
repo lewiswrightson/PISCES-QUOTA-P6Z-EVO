@@ -47,7 +47,7 @@ Model restart file: https://zenodo.org/records/20395315
 
 ### Authors:
 
-Lewis Wrightson and Alessandro Tagliabue 
+Lewis Wrightson, Ran Duan, Fei-Xue Fu, David A. Hutchins and Alessandro Tagliabue 
 
 ### Acknowledgements:
 

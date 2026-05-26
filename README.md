@@ -43,6 +43,8 @@ git clone --branch 4.2.3 https://forge.nemo-ocean.eu/nemo/nemo.git nemo_4.2.3
 
 The configuration is compiled using ./makenemo -r P6Z_EVO
 
+Model restart file: https://zenodo.org/records/20395315
+
 ### Authors:
 
 Lewis Wrightson and Alessandro Tagliabue 
